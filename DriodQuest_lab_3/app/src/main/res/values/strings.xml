@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">DriodQuest_lab_3</string>
+    <string name="correct_toast">Верно!</string>
+    <string name="incorrect_toast">Не верно!</string>
+    <string name="question_text">IOS основан на ядре линукса</string>
+    <string name="question_linear">Разметка LinearLayout позиционирует свои дочерние элементы в
+строки или столбцы.</string>
+    <string name="question_service">Компонент Android-приложения Service предоставляет доступ к
+данным.</string>
+    <string name="question_res"> Ресурсы приложения содержатся в отдельном файле XML.</string>
+    <string name="question_manifest">AndroidManifest.xml предоставляет системе основную
+информацию о программе.</string>
+</resources>

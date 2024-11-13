@@ -1,0 +1,23 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Base.Theme.Lab_2_3" parent="Theme.Material3.DayNight.NoActionBar">
+        <!-- Customize your light theme here. -->
+        <!-- <item name="colorPrimary">@color/my_light_primary</item> -->
+        <item name="android:background">#ff0e6647</item>
+        <item name="android:textColor">#ffffff</item>
+        <item name="android:textAllCaps">true</item>
+        <item name="android:typeface">monospace</item>
+    </style>
+
+    <style name="Theme.Lab_2_3" parent="Base.Theme.Lab_2_3" />
+
+    <style name="style1" parent="@android:style/TextAppearance">
+        <item name="android:textColor">#000000</item>
+        <item name="android:textSize">30sp</item>
+        <item name="android:typeface">monospace</item>
+    </style>
+
+    <style name='style1.bigfont21'>
+        <item name="android:textSize">50sp</item>
+    </style>
+</resources>
