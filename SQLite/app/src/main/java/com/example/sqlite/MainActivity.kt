@@ -72,6 +72,7 @@ class MainActivity : AppCompatActivity() {
         etPrice.text.clear()
         etCount.text.clear()
         etId.text.clear()
+        tvDb.text = "Товары:\n"
     }
 
     private fun updateRecord() {
